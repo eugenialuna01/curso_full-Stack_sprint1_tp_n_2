@@ -3,7 +3,7 @@
 import path from 'path';
 
 //Definir una ruta de archivo de ejemplo
-const filePath ='./data/example.txt'; /// ?????Asigna a filePath la ruta del archivo 'example.txt' ubicado en './data' ???????
+const filePath ='./data/example.txt'; 
  
 
 
