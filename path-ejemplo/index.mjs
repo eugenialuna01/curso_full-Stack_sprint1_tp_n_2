@@ -6,11 +6,6 @@ import path from 'path';
 const filePath ='./data/example.txt'; /// ?????Asigna a filePath la ruta del archivo 'example.txt' ubicado en './data' ???????
  
 
-/* ***Lo que nunca entendí***
-filePath = './data/example.txt';
-dirName = './data';       // Directorio (ruta de la carpeta)
-baseName = 'example';     // Nombre del archivo (sin extensión)*/
-
 
 
 //Obtener directorio base - Extrae solo la ruta del directorio, sin incluir el archivo.
